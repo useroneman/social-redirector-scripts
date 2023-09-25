@@ -33,7 +33,7 @@ async function fetchAndDisplayAds_() {
   try {
     var vXads = `?${Date.now()}`;
     const response = await fetch(
-      `https://useroneman.github.io/adsinone/data.json${vXads}`
+      `https://github.com/useroneman/social-redirector-scripts/data.json${vXads}`
     );
     const data = await response.json();
     //   data["ads"] = data;
