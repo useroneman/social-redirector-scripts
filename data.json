@@ -245,7 +245,7 @@
       "More Info": "This Is For Pinterest Noob Hackers",
       "id": 13,
       "platform": "Pinterest: Pinterest Noob Hackers",
-      "bitlylink": "",
+      "bitlylink": "https://bit.ly/nhspinterest",
       "short On": "Bitly & Blogger shortner",
       "IDused": "nhcmnty",
       "cid": "pint-id-nh",
@@ -279,6 +279,26 @@
         "utm_id": "BIO-PGE-NH",
         "utm_term": "BIO-PGE-NH",
         "utm_content": "BIOpge"
+      }
+    },
+    {  
+      "More Info": "This Is For Pinterest Noob Hackers",
+      "id": 15,
+      "platform": "Pinterest: Pinterest Noob Hackers",
+      "bitlylink": "https://bit.ly/nhspinterest",
+      "short On": "Bitly & Blogger shortner",
+      "IDused": "nhcmnty",
+      "cid": "pint-id-nh",
+      "RDRCT link": "https://socialnhlinksshortner.blogspot.com/p/sociallinkredirector.html?utm_source=FOLWUS-WEB-NH&utm_medium=FOLWUS-WEB-NH&utm_campaign=FOLWUS-WEB-NH&utm_id=FOLWUS-WEB-NH&utm_term=FOLWUS-WEB-NH&utm_content=FOLOWweb&trgUrl=aHR0cHM6Ly9iaW8ubm9vYmhhY2t0dWJlLmNvbT91dG1fc291cmNlPUZPTFdVUy1XRUItTkgmdXRtX21lZGl1bT1GT0xXVVMtV0VCLU5IJnV0bV9jYW1wYWlnbj1GT0xXVVMtV0VCLU5IJnV0bV9pZD1GT0xXVVMtV0VCLU5IJnV0bV90ZXJtPUZPTFdVUy1XRUItTkgmdXRtX2NvbnRlbnQ9Rk9MT1d3ZWI=",
+      "Used ON": "Facebook, Insta, Telegram",
+      "target_url": "https://in.pinterest.com/noobhackers",
+      "sendMe": {
+        "utm_source": "PINT-ID-NH",
+        "utm_medium": "PINT-ID-NH",
+        "utm_campaign": "PINT-ID-NH",
+        "utm_id": "PINT-ID-NH",
+        "utm_term": "PINT-ID-NH",
+        "utm_content": "PINTid"
       }
     },
     {
