@@ -222,23 +222,43 @@
       }
     },
     {  
-      "More Info": "This Is For Instamojo Noob Hackers",
-      "id": 12,
-      "platform": "Instamojo: Instamojo Noob Hackers",
+      "More Info": "This Is For Otherchannels Noob Hackers",
+      "id": 13,
+      "platform": "Otherchannels: Otherchannels Noob Hackers",
       "bitlylink": "",
       "short On": "Bitly & Blogger shortner",
       "IDused": "nhcmnty",
-      "cid": "web-ofcl-nh",
+      "cid": "othr-chnl-nh",
       "RDRCT link": "https://socialnhlinksshortner.blogspot.com/p/sociallinkredirector.html?utm_source=FOLWUS-WEB-NH&utm_medium=FOLWUS-WEB-NH&utm_campaign=FOLWUS-WEB-NH&utm_id=FOLWUS-WEB-NH&utm_term=FOLWUS-WEB-NH&utm_content=FOLOWweb&trgUrl=aHR0cHM6Ly9iaW8ubm9vYmhhY2t0dWJlLmNvbT91dG1fc291cmNlPUZPTFdVUy1XRUItTkgmdXRtX21lZGl1bT1GT0xXVVMtV0VCLU5IJnV0bV9jYW1wYWlnbj1GT0xXVVMtV0VCLU5IJnV0bV9pZD1GT0xXVVMtV0VCLU5IJnV0bV90ZXJtPUZPTFdVUy1XRUItTkgmdXRtX2NvbnRlbnQ9Rk9MT1d3ZWI=",
       "Used ON": "Facebook, Insta, Telegram",
-      "target_url": "https://www.noob-hackers.com/",
+      "target_url": "https://www.noob-hackers.com/p/otherchannels.html",
       "sendMe": {
-        "utm_source": "WEB-OFCL-NH",
-        "utm_medium": "WEB-OFCL-NH",
-        "utm_campaign": "WEB-OFCL-NH",
-        "utm_id": "WEB-OFCL-NH",
-        "utm_term": "WEB-OFCL-NH",
-        "utm_content": "WEBofcl"
+        "utm_source": "OTHR-CHNL-NH",
+        "utm_medium": "OTHR-CHNL-NH",
+        "utm_campaign": "OTHR-CHNL-NH",
+        "utm_id": "OTHR-CHNL-NH",
+        "utm_term": "OTHR-CHNL-NH",
+        "utm_content": "OTHRchnls"
+      }
+    },
+    {  
+      "More Info": "This Is For Otherchannels Noob Hackers",
+      "id": 13,
+      "platform": "Otherchannels: Otherchannels Noob Hackers",
+      "bitlylink": "",
+      "short On": "Bitly & Blogger shortner",
+      "IDused": "nhcmnty",
+      "cid": "othr-chnl-nh",
+      "RDRCT link": "https://socialnhlinksshortner.blogspot.com/p/sociallinkredirector.html?utm_source=FOLWUS-WEB-NH&utm_medium=FOLWUS-WEB-NH&utm_campaign=FOLWUS-WEB-NH&utm_id=FOLWUS-WEB-NH&utm_term=FOLWUS-WEB-NH&utm_content=FOLOWweb&trgUrl=aHR0cHM6Ly9iaW8ubm9vYmhhY2t0dWJlLmNvbT91dG1fc291cmNlPUZPTFdVUy1XRUItTkgmdXRtX21lZGl1bT1GT0xXVVMtV0VCLU5IJnV0bV9jYW1wYWlnbj1GT0xXVVMtV0VCLU5IJnV0bV9pZD1GT0xXVVMtV0VCLU5IJnV0bV90ZXJtPUZPTFdVUy1XRUItTkgmdXRtX2NvbnRlbnQ9Rk9MT1d3ZWI=",
+      "Used ON": "Facebook, Insta, Telegram",
+      "target_url": "https://www.noob-hackers.com/p/otherchannels.html",
+      "sendMe": {
+        "utm_source": "OTHR-CHNL-NH",
+        "utm_medium": "OTHR-CHNL-NH",
+        "utm_campaign": "OTHR-CHNL-NH",
+        "utm_id": "OTHR-CHNL-NH",
+        "utm_term": "OTHR-CHNL-NH",
+        "utm_content": "OTHRchnls"
       }
     },
     {
