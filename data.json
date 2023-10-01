@@ -141,6 +141,26 @@
         "utm_content": "INSTApge"
       }
     },
+    {  
+      "More Info": "This Is For Twitter Page Noob Hackers",
+      "id": 9,
+      "platform": "Twitter:  Twitter Page Noob Hackers",
+      "bitlylink": "",
+      "short On": "Bitly & Blogger shortner",
+      "IDused": "nhcmnty",
+      "cid": "twtr-pgr-nh",
+      "RDRCT link": "",
+      "Used ON": "Facebook, Insta, Telegram",
+      "target_url": "https://twitter.com/noob_hackers",
+      "sendMe": {
+        "utm_source": "TWTR-PGE-NH",
+        "utm_medium": "TWTR-PGE-NH",
+        "utm_campaign": "TWTR-PGE-NH",
+        "utm_id": "TWTR-PGE-NH",
+        "utm_term": "TWTR-PGE-NH",
+        "utm_content": "TWTRpge"
+      }
+    },
     {
       "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 2,
