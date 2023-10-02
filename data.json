@@ -525,7 +525,7 @@
       "More Info": "This Is For GdgetStore Noob Hackers",
       "id": 27,
       "platform": "GadgetStore: GadgetStore Noob Hackers",
-      "bitlylink": "",
+      "bitlylink": "https://bit.ly/ourgadgetstore",
       "short On": "Bitly & Blogger shortner",
       "IDused": "nhcmnty",
       "cid": "gadgt-store-nh",
@@ -539,6 +539,26 @@
         "utm_id": "GADGT-STORE-NH",
         "utm_term": "GADGT-STORE-NH",
         "utm_content": "GADGTstore"
+      }
+    },
+    {  
+      "More Info": "This Is For WebinarZone Noob Hackers",
+      "id": 28,
+      "platform": "WebinarZone: WebinarZone Noob Hackers",
+      "bitlylink": "",
+      "short On": "Bitly & Blogger shortner",
+      "IDused": "nhcmnty",
+      "cid": "webnr-zon-nh",
+      "RDRCT link": "https://socialnhlinksshortner.blogspot.com/p/sociallinkredirector.html?utm_source=PROMO-VID-NH&utm_medium=PROMO-VID-NH&utm_campaign=PROMO-VID-NH&utm_id=PROMO-VID-NH&utm_term=PROMO-VID-NH&utm_content=PROMOvid&trgUrl=aHR0cHM6Ly93d3cubm9vYi1oYWNrZXJzLmNvbS9wL2FkdmVydGlzZS13aXRoLXVzLmh0bWw/dXRtX3NvdXJjZT1QUk9NTy1WSUQtTkgmdXRtX21lZGl1bT1QUk9NTy1WSUQtTkgmdXRtX2NhbXBhaWduPVBST01PLVZJRC1OSCZ1dG1faWQ9UFJPTU8tVklELU5IJnV0bV90ZXJtPVBST01PLVZJRC1OSCZ1dG1fY29udGVudD1QUk9NT3ZpZA==",
+      "Used ON": "Facebook, Insta, Telegram",
+      "target_url": "https://fancysnivelingpoints.noobhackersofficial.repl.co",
+      "sendMe": {
+        "utm_source": "WEBNR-ZON-NH",
+        "utm_medium": "WEBNR-ZON-NH",
+        "utm_campaign": "WEBNR-ZON-NH",
+        "utm_id": "WEBNR-ZON-NH",
+        "utm_term": "WEBNR-ZON-NH",
+        "utm_content": "WEBNRzone"
       }
     },
     {
