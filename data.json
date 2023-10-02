@@ -585,7 +585,7 @@
       "More Info": "This Is For WebCourses Noob Hackers",
       "id": 30,
       "platform": "WebCourses: WebCourses Noob Hackers",
-      "bitlylink": "",
+      "bitlylink": "https://bit.ly/webcoursess",
       "short On": "Bitly & Blogger shortner",
       "IDused": "nhcmnty",
       "cid": "web-courses-nh",
@@ -602,23 +602,23 @@
       }
     },
     {  
-      "More Info": "This Is For ProMembershipWeb Noob Hackers",
+      "More Info": "This Is For VIPinterested Noob Hackers",
       "id": 31,
-      "platform": "ProMembershipWeb: ProMembershipWeb Noob Hackers",
-      "bitlylink": "https://bit.ly/webmemberships",
+      "platform": "VIPinterested: VIPinterested Noob Hackers",
+      "bitlylink": "",
       "short On": "Bitly & Blogger shortner",
       "IDused": "nhcmnty",
-      "cid": "pro-mbrship-nh",
+      "cid": "vip-intrsted-nh",
       "RDRCT link": "https://socialnhlinksshortner.blogspot.com/p/sociallinkredirector.html?utm_source=PRO-MBRSHIP-NH&utm_medium=PRO-MBRSHIP-NH&utm_campaign=PRO-MBRSHIP-NH&utm_id=PRO-MBRSHIP-NH&utm_term=PRO-MBRSHIP-NH&utm_content=PROmbrship&trgUrl=aHR0cHM6Ly9wcm9tZW1iZXIubm9vYmhhY2t0dWJlLmNvbT91dG1fc291cmNlPVBSTy1NQlJTSElQLU5IJnV0bV9tZWRpdW09UFJPLU1CUlNISVAtTkgmdXRtX2NhbXBhaWduPVBSTy1NQlJTSElQLU5IJnV0bV9pZD1QUk8tTUJSU0hJUC1OSCZ1dG1fdGVybT1QUk8tTUJSU0hJUC1OSCZ1dG1fY29udGVudD1QUk9tYnJzaGlw",
       "Used ON": "Facebook, Insta, Telegram",
-      "target_url": "https://promember.noobhacktube.com",
+      "target_url": "https://api.whatsapp.com/send?phone=919113948054&text=*_like%20to%20buy%20vip%20membership_*",
       "sendMe": {
-        "utm_source": "PRO-MBRSHIP-NH",
-        "utm_medium": "PRO-MBRSHIP-NH",
-        "utm_campaign": "PRO-MBRSHIP-NH",
-        "utm_id": "PRO-MBRSHIP-NH",
-        "utm_term": "PRO-MBRSHIP-NH",
-        "utm_content": "PROmbrship"
+        "utm_source": "VIP-INTRSTED-NH",
+        "utm_medium": "VIP-INTRSTED-NH",
+        "utm_campaign": "VIP-INTRSTED-NH",
+        "utm_id": "VIP-INTRSTED-NH",
+        "utm_term": "VIP-INTRSTED-NH",
+        "utm_content": "VIPintrsted"
       }
     },
     {
